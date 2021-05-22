@@ -17,4 +17,9 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");
 	}
+	
+	public void gitTest1()
+	{
+		System.out.println("gitTest1");
+	}
 }
