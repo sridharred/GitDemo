@@ -9,6 +9,9 @@ public class APITest {
 	public void JiraTest()
 	{
 		System.out.println("JiraTest");
+		System.out.println("JiraTest 2");
+		System.out.println("JiraTest 3");
+		
 	}
 	
 	@Test
