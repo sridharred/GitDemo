@@ -11,6 +11,10 @@ public class APITest {
 		System.out.println("JiraTest");
 		System.out.println("JiraTest 2");
 		System.out.println("JiraTest 3");
+		System.out.println("JiraTest 4");
+		System.out.println("JiraTest 5");
+		System.out.println("JiraTest 6");
+		System.out.println("JiraTest 7");
 		
 	}
 	
