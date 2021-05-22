@@ -15,5 +15,10 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");
 	}
+	
+	public void gitTest2()
+	{
+		System.out.println("gitTest2");
+	}
 
 }
