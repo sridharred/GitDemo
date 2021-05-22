@@ -23,5 +23,10 @@ public class APITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	
+	public void gitTest3()
+	{
+		System.out.println("gitTest3");
+	}
 
 }
